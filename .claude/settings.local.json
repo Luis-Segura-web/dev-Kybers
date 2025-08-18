@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell.exe:*)",
+      "Bash(cmd.exe:*)",
+      "Bash(gradlew.bat:*)",
+      "Bash(.\\gradlew.bat:*)",
+      "Bash(git:*)",
+      "Bash(find:*)",
+      "Bash(grep:*)",
+      "Bash(rg:*)"
+    ],
+    "defaultMode": "acceptEdits"
+  }
+}
